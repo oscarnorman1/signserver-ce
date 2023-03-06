@@ -27,7 +27,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
         <!-- 3rd party libraries as a set of release(s) -->
-        <jackson.version>2.11.2</jackson.version>
+        <jackson.version>2.12.7.1</jackson.version>
 
         <dss.framework.version>5.8</dss.framework.version>
     </properties>
